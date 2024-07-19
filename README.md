@@ -29,3 +29,5 @@ Accounting Programs: QuickBooks, Kronos, (ERP) NetSuite Oracle, Peoplesoft, EMS 
 Productivity Tools: Microsoft Office, Google Suite, Canva, and Adobe Primer Rush 
 Cloud Service: Uniflow Canon, AWS, Citrix
 
+
+
