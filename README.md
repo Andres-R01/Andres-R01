@@ -16,3 +16,11 @@ Work that I am proud of includes 'Capstone-Project' and 'House Interested Rates'
 🤝 Connect with me on LinkedIn: https://www.linkedin.com/in/andres-rodriguez101/
 
 🎈 In my free time, I like to read, do free courses, and spend time with my family...
+
+
+Technical Skills
+Programming Languages: Python, Scala, Java, C, R, SQL, Unix Shell Scripting
+Certifications: Microsoft Azure DP-900, Docker Associate, Microsoft Azure Fabric DP-600
+Databases: MongoDB, IBM DB2, MySQL, Redis, Cloud Object Storage, NoSQL
+Frameworks: Apache Spark, Akka, Matplotlib, FS2Streaming, Kafka, Spark Streaming, Spring Boot, TDD
+Tools: Kubernetes, AWS, Azure Cloud, Azure Data Factory, SQL Server Management Studio, Airflow
