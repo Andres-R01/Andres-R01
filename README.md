@@ -19,6 +19,7 @@ Work that I am proud of includes 'Capstone-Project' and 'House Interested Rates'
 
 
 Technical Skills
+
 Programming Languages: Python, Scala, Java, C, R, SQL, Unix Shell Scripting
 Certifications: Microsoft Azure DP-900, Docker Associate, Microsoft Azure Fabric DP-600
 Databases: MongoDB, IBM DB2, MySQL, Redis, Cloud Object Storage, NoSQL
