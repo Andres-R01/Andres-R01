@@ -20,8 +20,12 @@ Work that I am proud of includes 'Capstone-Project' and 'House Interested Rates'
 
 Technical Skills
 
-Programming Languages: Python, Scala, Java, C, R, SQL, Unix Shell Scripting
-Certifications: Microsoft Azure DP-900, Docker Associate, Microsoft Azure Fabric DP-600
-Databases: MongoDB, IBM DB2, MySQL, Redis, Cloud Object Storage, NoSQL
-Frameworks: Apache Spark, Akka, Matplotlib, FS2Streaming, Kafka, Spark Streaming, Spring Boot, TDD
-Tools: Kubernetes, AWS, Azure Cloud, Azure Data Factory, SQL Server Management Studio, Airflow
+Databases: SQL, Excel, and Access
+Programming: Java, JavaScript, R, and Python
+Data Visualization: Tableau, Power BI
+Data Analytics: R and Tableau
+Operating Systems: Ubuntu, Linux
+Accounting Programs: QuickBooks, Kronos, (ERP) NetSuite Oracle, Peoplesoft, EMS and Omnia Connect 
+Productivity Tools: Microsoft Office, Google Suite, Canva, and Adobe Primer Rush 
+Cloud Service: Uniflow Canon, AWS, Citrix
+
